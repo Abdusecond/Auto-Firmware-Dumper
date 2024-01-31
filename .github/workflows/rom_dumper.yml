@@ -1,6 +1,5 @@
 name: Auto Firmware Dumper
 
-let issueBody = 'emailContents';
 on:
   workflow_dispatch:
     inputs:
